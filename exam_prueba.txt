@@ -1,0 +1,6 @@
+[
+	{ "x": 1000, "grupo": "aguilas" },
+	{ "x": 700, "grupo": "peces"},
+	{ "x": 200, "grupo": "perros"},
+	{ "x": 500, "grupo": "gatos"}
+]
